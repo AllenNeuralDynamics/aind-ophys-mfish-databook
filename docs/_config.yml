@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Allen Brain Observatory Databook
+title: aind-ophys-mfish-databook
 author: BIRD team, Matt James Davis
 logo: logo.png
 
