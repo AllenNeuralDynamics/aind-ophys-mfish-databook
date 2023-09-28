@@ -1,4 +1,4 @@
-# ain-ophys-mfish-databook
+# aind-ophys-mfish-databook
 
 insert text here
 

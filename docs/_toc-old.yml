@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Visualization
+  chapters:
+  - file: /background
+- caption: Analysis
+  chapters:
+  - file: analysis/background
+- caption: Engineering
+  chapters:
+  - file: engineering/intro
+- caption: Bibliography and FAQ
+  chapters:
+  - file: bibliography
+  - file: FAQ.md

@@ -3,17 +3,9 @@
 
 format: jb-book
 root: intro
-parts:
-- caption: Visualization
-  chapters:
-  - file: visualization/background.md
-- caption: Analysis
-  chapters:
-  - file: analysis/background.md
-- caption: Engineering
-  chapters:
-  - file: engineering/intro.md
-- caption: Bibliography and FAQ
-  chapters:
-  - file: bibliography.md
-  - file: FAQ.md
+chapters:
+- file: visualization/background
+- file: analysis/background
+- file: engineering/intro
+- file: bibliography
+- file: FAQ
