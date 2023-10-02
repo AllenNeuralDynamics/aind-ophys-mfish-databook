@@ -1,6 +1,7 @@
-# aind-ophys-mfish-databook
+# AIND Ophys-mFish Databook
 
-insert text here
+Documentation for AIND platforms and projects aimed at understanding the in vivo function of cell types using 2-photon calcium imaging, spatial transcriptomics, and behavior. 
+
 
 ```{tableofcontents}
 ```
