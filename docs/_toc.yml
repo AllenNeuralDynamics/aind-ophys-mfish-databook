@@ -5,17 +5,34 @@ format: jb-book
 root: intro
 parts:
   - caption: Optical Physiology
+    chapters:
+    -file: optical-physiology/intro
   - caption: Lightsheet mFISH
+    chapters:
+    -file: lightsheet-mfish/intro
   - caption: Ophys-mFISH co-registration
+    chapters:
+    -file: ophys-mfish-coreg/intro
   - caption: Intrisic Signal Imaging
+    chapters:
+    -file: isi/intro
   - caption: Surgery
+    chapters:
+    -file: surgery/intro
   - caption: Pipeline tracking tools
+    chapters:
+    -file: pipeline-tools/intro
   - caption: Quality control tools
+    chapters:
+    -file: qc-tools/intro
   - caption: V1 omFISH
+    chapters:
     -file: v1_omfish/overview
   - caption: Learning mFish
+    chapters:
     -file: learning-mfish/overview
     -file: learning-mfish/task1a-pilot
   - caption: Bibliography & FAQ
+    chapters:
     -file: FAQ
     -file: bibliography
