@@ -6,33 +6,36 @@ root: intro
 parts:
   - caption: Optical Physiology
     chapters:
-    -file: optical-physiology/intro
+    - file: optical-physiology/intro.md
   - caption: Lightsheet mFISH
     chapters:
-    -file: lightsheet-mfish/intro
+    - file: lightsheet-mfish/intro.md
   - caption: Ophys-mFISH co-registration
     chapters:
-    -file: ophys-mfish-coreg/intro
+    - file: ophys-mfish-coreg/intro.md
   - caption: Intrisic Signal Imaging
     chapters:
-    -file: isi/intro
+    - file: isi/intro.md
   - caption: Surgery
     chapters:
-    -file: surgery/intro
+    - file: surgery/intro.md
   - caption: Pipeline tracking tools
     chapters:
-    -file: pipeline-tools/intro
+    - file: pipeline-tools/intro.md
   - caption: Quality control tools
     chapters:
-    -file: qc-tools/intro
+    - file: qc-tools/intro.md
+  - caption: Visual Behavior
+    chapters:
+    - file: visual-behavior/intro.md
   - caption: V1 omFISH
     chapters:
-    -file: v1_omfish/overview
+    - file: v1_omfish/overview.md
   - caption: Learning mFish
     chapters:
-    -file: learning-mfish/overview
-    -file: learning-mfish/task1a-pilot
+    - file: learning-mfish/overview.md
+    - file: learning-mfish/task1A-pilot.md
   - caption: Bibliography & FAQ
     chapters:
-    -file: FAQ
-    -file: bibliography
+    - file: FAQ.md
+    - file: bibliography.md
