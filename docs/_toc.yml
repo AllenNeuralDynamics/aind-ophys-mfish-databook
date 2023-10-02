@@ -3,9 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: visualization/background
-- file: analysis/background
-- file: engineering/intro
-- file: bibliography
-- file: FAQ
+parts:
+  - caption: Optical Physiology
+  - caption: Lightsheet mFISH
+  - caption: Ophys-mFISH co-registration
+  - caption: Intrisic Signal Imaging
+  - caption: Surgery
+  - caption: Pipeline tracking tools
+  - caption: Quality control tools
+  - caption: V1 omFISH
+    -file: v1_omfish/overview
+  - caption: Learning mFish
+    -file: learning-mfish/overview
+    -file: learning-mfish/task1a-pilot
+  - caption: Bibliography & FAQ
+    -file: FAQ
+    -file: bibliography
