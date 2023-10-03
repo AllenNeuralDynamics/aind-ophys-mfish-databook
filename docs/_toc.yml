@@ -4,38 +4,31 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Optical Physiology
-    chapters:
-    - file: optical-physiology/intro.md
-  - caption: Lightsheet mFISH
-    chapters:
-    - file: lightsheet-mfish/intro.md
-  - caption: Ophys-mFISH co-registration
-    chapters:
-    - file: ophys-mfish-coreg/intro.md
-  - caption: Intrisic Signal Imaging
-    chapters:
-    - file: isi/intro.md
-  - caption: Surgery
-    chapters:
-    - file: surgery/intro.md
-  - caption: Pipeline tracking tools
-    chapters:
-    - file: pipeline-tools/intro.md
-  - caption: Quality control tools
-    chapters:
-    - file: qc-tools/intro.md
-  - caption: Visual Behavior
-    chapters:
-    - file: visual-behavior/intro.md
-  - caption: V1 omFISH
-    chapters:
-    - file: v1_omfish/overview.md
-  - caption: Learning mFish
-    chapters:
-    - file: learning-mfish/overview.md
-    - file: learning-mfish/task1A-pilot.md
-  - caption: Bibliography & FAQ
-    chapters:
-    - file: FAQ.md
-    - file: bibliography.md
+- caption: PLATFORMS
+  chapters:
+  - file: optical-physiology/intro.md
+  - file: lightsheet-mfish/intro.md
+  - file: ophys-mfish-coreg/intro.md
+  - file: isi/intro.md
+  - file: surgery/intro.md
+  - file: pipeline-tools/intro.md
+  - file: qc-tools/intro.md
+  - file: visual-behavior/intro.md
+    sections:
+    - file: visual-behavior/workflow
+    - file: visual-behavior/visual-stimulus
+    - file: visual-behavior/mtrain
+    - file: visual-behavior/behavior-monitoring
+    - file: visual-behavior/change-detection
+- caption: PROJECTS
+  chapters:
+  - file: v1_omfish/intro.md
+  - file: learning-mfish/intro.md
+    sections:
+      - file: learning-mfish/task1A-pilot.md
+- caption: BIBLIOGRAPHY & FAQ
+  chapters:
+  - file: FAQ.md
+  - file: bibliography.md
+
+

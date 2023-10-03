@@ -1,4 +1,4 @@
-# Learning-mFISH Project Overview
+# Learning-mFISH
 
 ## Background
 

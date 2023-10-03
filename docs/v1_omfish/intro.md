@@ -1,4 +1,4 @@
-# V1 omFISH Project Overview
+# V1 omFISH
 
 ## Background
 
